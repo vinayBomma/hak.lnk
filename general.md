@@ -9,3 +9,4 @@
 - Pentester Lab - https://pentesterlab.com
 - Pentest Blog - https://pentest.blog
 - Common Weakness Enumeration - https://cwe.mitre.org
+- BugBountyNotes - https://www.bugbountynotes.com/
