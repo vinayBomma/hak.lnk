@@ -27,3 +27,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://hackernoon.com
 - https://liveoverflow.com
 - https://medium.com/bugbountywriteup
+- https://www.hack4.net
