@@ -2,10 +2,11 @@
 
 # Tools
 
-## General
+## General / Collection
 
 - https://tools.kali.org/tools-listing
 - https://tools.cyberkendra.com
+- https://bugbountyforum.com/tools/
 
 ## Networking
 
