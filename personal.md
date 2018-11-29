@@ -37,6 +37,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://wwws.nightwatchcybersecurity.com
 - https://www.cujanovic.com
 - https://www.andmp.com
+- https://blog.blackfan.ru
 
 ## Medium Blogs
 
