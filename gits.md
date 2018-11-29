@@ -12,5 +12,3 @@
 
 - https://github.com/B3nac/Android-Reports-and-Resources
 - https://github.com/payatu/diva-android
-
-## Tools
