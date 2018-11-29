@@ -8,3 +8,5 @@ Author: [tolo7010](https://hackerone.com/tolo7010)
 - [Infosec News / Blogs](https://github.com/tolo7010/hak.lnk/blob/master/news.md)
 - [Personal Blogs](https://github.com/tolo7010/hak.lnk/blob/master/personal.md)
 - [Useful Git Projects](https://github.com/tolo7010/hak.lnk/blob/master/gits.md)
+
+Please contact me if you see broken links or there are other interesting links which should be added.
