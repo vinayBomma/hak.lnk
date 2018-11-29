@@ -54,6 +54,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@benjitobias
 - https://medium.com/@minaliarora
 - https://medium.com/@luanherrera
+- https://medium.com/@logicbomb_1
 
 ## Hackernoon Blogs
 
