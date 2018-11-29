@@ -2,11 +2,11 @@
 
 # Useful Git Projects
 ## General
-https://github.com/OWASP<br>
-https://github.com/ngalongc<br>
-https://github.com/cujanovic<br>
-https://github.com/danielmiessler<br>
+- https://github.com/OWASP
+- https://github.com/ngalongc
+- https://github.com/cujanovic
+- https://github.com/danielmiessler
 
 ## Mobile
-https://github.com/B3nac/Android-Reports-and-Resources<br>
-https://github.com/payatu/diva-android
+- https://github.com/B3nac/Android-Reports-and-Resources
+- https://github.com/payatu/diva-android
