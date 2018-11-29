@@ -41,12 +41,17 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 
 ## Medium Blogs
 
+- https://medium.com/@phwd
+- https://medium.com/@ehsahil
+- https://medium.com/@japzdivino
+- https://medium.com/@_bl4de
+- https://medium.com/@kunal94
+- https://medium.com/@tomnomnom
 - https://medium.com/@vulnerables
 - https://medium.com/@0ktavandi
 - https://medium.com/@zain.sabahat
 - https://medium.com/@yamakira_
 - https://medium.com/@chris_vu
-- https://medium.com/@tomnomnom
 - https://medium.com/@JubaBaghdad
 - https://medium.com/@saamux
 - https://medium.com/@zain.sabahat
@@ -55,6 +60,16 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@minaliarora
 - https://medium.com/@luanherrera
 - https://medium.com/@logicbomb_1
+- https://medium.com/@Alra3ees
+- https://medium.com/@efkan162
+- https://medium.com/@alicanact60
+- https://medium.com/@jonathanbouman
+- https://medium.com/@fs0c131y
+- https://medium.com/@ansjdnakjdnajkd
+- https://medium.com/@JubaBaghdad
+- https://medium.com/@social.abdoulgadiri
+- https://medium.com/@europa_
+- https://medium.com/@craighays
 
 ## Hackernoon Blogs
 
