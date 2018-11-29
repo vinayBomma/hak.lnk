@@ -10,3 +10,4 @@
 - Pentest Blog - https://pentest.blog
 - Common Weakness Enumeration - https://cwe.mitre.org
 - BugBountyNotes - https://www.bugbountynotes.com/
+- Google Bug Hunter University - https://sites.google.com/site/bughunteruniversity/
