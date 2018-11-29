@@ -1,6 +1,7 @@
 [Back to index](https://github.com/tolo7010/hak.lnk)
 
-# Infosec News / Blogs
+# Infosec News
+
 These websites are mainly belong to infosec companies to keep you updated from the latest security trends.
 
 - https://www.hackerone.com/blog
@@ -28,3 +29,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://liveoverflow.com
 - https://medium.com/bugbountywriteup
 - https://www.hack4.net
+- https://www.zdnet.com
