@@ -76,6 +76,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@europa_
 - https://medium.com/@craighays
 - https://medium.com/@sudogem
+- https://medium.com/@raushanraj_65039
 
 ## Hackernoon Blogs
 
