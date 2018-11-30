@@ -38,7 +38,8 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.cujanovic.com
 - https://www.andmp.com
 - https://blog.blackfan.ru
-- http://karelzak.blogspot.com/
+- http://karelzak.blogspot.com
+- https://www.amolbaikar.com/blog
 
 ## Medium Blogs
 
