@@ -84,3 +84,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 ## Hackernoon Blogs
 
 - https://hackernoon.com/@arbazhussain
+
+## GitHub Blogs
+
+- https://s1gnalcha0s.github.io
