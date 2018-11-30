@@ -42,6 +42,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.amolbaikar.com/blog
 - http://panchocosil.blogspot.com
 - http://www.hackingmonks.net
+- https://thesecurityexperts.wordpress.com
 
 ## Medium Blogs
 
