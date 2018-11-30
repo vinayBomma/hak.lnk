@@ -30,3 +30,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://medium.com/bugbountywriteup
 - https://www.hack4.net
 - https://www.zdnet.com
+- https://www.hackread.com
