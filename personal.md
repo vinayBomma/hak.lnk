@@ -40,6 +40,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.blackfan.ru
 - http://karelzak.blogspot.com
 - https://www.amolbaikar.com/blog
+- http://panchocosil.blogspot.com
 
 ## Medium Blogs
 
