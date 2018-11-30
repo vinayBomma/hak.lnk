@@ -44,7 +44,8 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - http://www.hackingmonks.net
 - https://thesecurityexperts.wordpress.com
 - https://blog.bentkowski.info
-- https://evanricafort.blogspot.com/
+- https://evanricafort.blogspot.com
+- https://sites.google.com/securifyinc.com/vrp-writeups
 
 ## Medium Blogs
 
