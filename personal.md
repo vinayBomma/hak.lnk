@@ -48,6 +48,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://sites.google.com/securifyinc.com/vrp-writeups
 - https://doublepulsar.com
 - https://www.spacerogue.net/wordpress
+- https://blog.0day.rocks
 
 ## Medium Blogs
 
