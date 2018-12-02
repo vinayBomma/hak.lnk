@@ -46,6 +46,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.bentkowski.info
 - https://evanricafort.blogspot.com
 - https://sites.google.com/securifyinc.com/vrp-writeups
+- https://doublepulsar.com
 
 ## Medium Blogs
 
