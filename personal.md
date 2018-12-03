@@ -51,6 +51,11 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.0day.rocks
 - http://10degres.net
 - https://www.evonide.com
+- http://swende.se
+- https://w00tsec.blogspot.com
+- https://gynvael.coldwind.pl
+- http://c0rni3sm.blogspot.com
+- http://ho.ax
 
 ## Medium Blogs
 
