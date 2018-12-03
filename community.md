@@ -2,6 +2,7 @@
 
 # Community Forums / Discussion Boards
 
+- https://bugbountyforum.com
 
 ## Reddit
 
