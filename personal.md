@@ -50,6 +50,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.spacerogue.net/wordpress
 - https://blog.0day.rocks
 - http://10degres.net
+- https://www.evonide.com
 
 ## Medium Blogs
 
