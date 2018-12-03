@@ -32,3 +32,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://www.zdnet.com
 - https://www.hackread.com
 - http://www.eweek.com/security
+- https://lightningsecurity.io/blog
