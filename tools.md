@@ -19,6 +19,9 @@
 
 - http://sqlmap.org
 
+## Exploitation
+- https://xsshunter.com
+
 ## Mobile
 
 - https://labs.mwrinfosecurity.com/tools/drozer/
