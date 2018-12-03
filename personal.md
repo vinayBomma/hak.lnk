@@ -49,6 +49,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://doublepulsar.com
 - https://www.spacerogue.net/wordpress
 - https://blog.0day.rocks
+- http://10degres.net
 
 ## Medium Blogs
 
