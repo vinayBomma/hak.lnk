@@ -34,3 +34,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - http://www.eweek.com/security
 - https://lightningsecurity.io/blog
 - https://hackaday.com
+- https://blog.appsecco.com
