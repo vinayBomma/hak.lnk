@@ -56,6 +56,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://gynvael.coldwind.pl
 - http://c0rni3sm.blogspot.com
 - http://ho.ax
+- https://tomnomnom.com
 
 ## Medium Blogs
 
