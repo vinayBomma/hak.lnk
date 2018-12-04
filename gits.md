@@ -17,6 +17,7 @@
 - https://github.com/topics/bug-bounty
 - https://github.com/EdOverflow
 - https://github.com/avlidienbrunn
+- https://github.com/yassineaboukir
 
 ## Mobile
 
