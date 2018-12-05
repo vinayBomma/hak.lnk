@@ -59,6 +59,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://tomnomnom.com
 - https://klikki.fi
 - http://hackervis.blogspot.com
+- https://www.secu.ninja
 
 ## Medium Blogs
 
