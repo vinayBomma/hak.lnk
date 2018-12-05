@@ -37,3 +37,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://blog.appsecco.com
 - https://the-infosec.com
 - https://blog.hackenproof.com
+- http://www.easyhack.in
