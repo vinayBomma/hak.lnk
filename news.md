@@ -38,3 +38,5 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://the-infosec.com
 - https://blog.hackenproof.com
 - http://www.easyhack.in
+- https://threatpost.com
+
