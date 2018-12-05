@@ -6,3 +6,4 @@
 - https://manifestsecurity.com
 - https://mobilesecuritywiki.com
 - https://igoatapp.com
+- https://www.allysonomalley.com
