@@ -35,3 +35,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://lightningsecurity.io/blog
 - https://hackaday.com
 - https://blog.appsecco.com
+- https://the-infosec.com
