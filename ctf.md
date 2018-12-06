@@ -1,6 +1,6 @@
 [Back to index](https://github.com/tolo7010/hak.lnk)
 
-# CFTs / Challenges
+# CFTs / Challenges / Labs
 
 - https://hackedu.io
 - https://www.vulnhub.com
@@ -30,3 +30,4 @@
 - http://smashthestack.org
 - http://www.p0wnlabs.com/free/vms
 - http://www.dvwa.co.uk
+- https://github.com/cure53/XSSChallengeWiki/wiki
