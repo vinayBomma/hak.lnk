@@ -40,3 +40,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - http://www.easyhack.in
 - https://threatpost.com
 - https://techcrunch.com
+- http://hitb.org
