@@ -37,3 +37,4 @@
 - https://xss-game.appspot.com
 - https://google-gruyere.appspot.com
 - https://lab.pentestit.ru
+- https://metasploit.help.rapid7.com/docs/metasploitable-2
