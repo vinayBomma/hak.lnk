@@ -16,3 +16,9 @@
 - https://www.root-me.org
 - https://pentester.land
 - https://pentesterlab.com
+- https://ringzer0ctf.com
+- https://www.hackthebox.eu
+- https://www.wechall.net/active_sites
+- https://overthewire.org/wargames
+- https://www.reddit.com/r/securityctf
+- https://github.com/ctfs
