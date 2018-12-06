@@ -22,3 +22,11 @@
 - https://overthewire.org/wargames
 - https://www.reddit.com/r/securityctf
 - https://github.com/ctfs
+- https://hackerfire.com
+- http://www.cipher-ctf.org
+- https://ctfd.io
+- http://ctf.infosecinstitute.com
+- https://www.owasp.org/index.php/OWASP_Hacking_Lab
+- http://smashthestack.org
+- http://www.p0wnlabs.com/free/vms
+- http://www.dvwa.co.uk
