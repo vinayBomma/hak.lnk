@@ -108,3 +108,4 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 
 - https://s1gnalcha0s.github.io
 - http://zhchbin.github.io
+- https://jhalon.github.io
