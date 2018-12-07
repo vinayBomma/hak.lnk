@@ -42,3 +42,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://techcrunch.com
 - http://hitb.org
 - https://www.alienvault.com/blogs
+- https://blog.mozilla.org/security
