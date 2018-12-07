@@ -28,6 +28,9 @@
 - http://ctf.infosecinstitute.com
 - https://www.owasp.org/index.php/OWASP_Hacking_Lab
 - https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
+- https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
+- https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+- https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project
 - http://smashthestack.org
 - http://www.p0wnlabs.com/free/vms
 - http://www.dvwa.co.uk
@@ -38,3 +41,6 @@
 - https://google-gruyere.appspot.com
 - https://lab.pentestit.ru
 - https://metasploit.help.rapid7.com/docs/metasploitable-2
+- http://www.itsecgames.com
+- https://hackcenter.com
+
