@@ -62,6 +62,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.secu.ninja
 - https://pwning.re
 - https://www.betterhacker.com
+- https://techvomit.net
 
 ## Medium Blogs
 
