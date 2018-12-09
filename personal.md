@@ -63,6 +63,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://pwning.re
 - https://www.betterhacker.com
 - https://techvomit.net
+- https://ardern.io
 
 ## Medium Blogs
 
