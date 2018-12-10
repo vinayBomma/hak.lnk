@@ -45,3 +45,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://blog.mozilla.org/security
 - https://auth0.com/blog
 - https://blog.securitybreached.org
+- https://www.infosecurity-magazine.com
