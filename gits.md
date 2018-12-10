@@ -19,6 +19,7 @@
 - https://github.com/avlidienbrunn
 - https://github.com/yassineaboukir
 - https://github.com/Hack-with-Github
+- https://github.com/coreb1t/awesome-pentest-cheat-sheets
 
 ## Mobile
 
