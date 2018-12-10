@@ -64,6 +64,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.betterhacker.com
 - https://techvomit.net
 - https://ardern.io
+- https://blog.intothesymmetry.com
 
 ## Medium Blogs
 
