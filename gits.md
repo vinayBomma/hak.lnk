@@ -21,6 +21,7 @@
 - https://github.com/Hack-with-Github
 - https://github.com/coreb1t/awesome-pentest-cheat-sheets
 - https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/jhaddix
 
 ## Mobile
 
