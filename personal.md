@@ -67,6 +67,8 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.intothesymmetry.com
 - https://daeken.svbtle.com
 - https://mohitdabas.wordpress.com
+- https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki
+- https://highon.coffee
 
 ## Medium Blogs
 
