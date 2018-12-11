@@ -108,6 +108,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@showthread
 - https://medium.com/@r0t1v
 - https://medium.com/@intideceukelaire
+- https://medium.com/@rupika.luhach
 
 ## Hackernoon Blogs
 
