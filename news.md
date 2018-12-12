@@ -47,3 +47,5 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://blog.securitybreached.org
 - https://www.infosecurity-magazine.com
 - https://www.safetydetective.com/blog
+- https://blog.avatao.com
+
