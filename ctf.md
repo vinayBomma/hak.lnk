@@ -43,4 +43,4 @@
 - https://metasploit.help.rapid7.com/docs/metasploitable-2
 - http://www.itsecgames.com
 - https://hackcenter.com
-
+- https://practicalpentestlabs.com
