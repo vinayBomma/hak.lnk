@@ -22,6 +22,7 @@
 - https://github.com/coreb1t/awesome-pentest-cheat-sheets
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/jhaddix
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## Mobile
 
