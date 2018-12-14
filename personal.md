@@ -70,6 +70,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki
 - https://highon.coffee
 - https://ahussam.me
+- https://mohemiv.com
 
 ## Medium Blogs
 
