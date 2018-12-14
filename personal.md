@@ -69,6 +69,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://mohitdabas.wordpress.com
 - https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki
 - https://highon.coffee
+- https://ahussam.me
 
 ## Medium Blogs
 
@@ -110,6 +111,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@intideceukelaire
 - https://medium.com/@rupika.luhach
 - https://medium.com/@vis_hacker
+- https://medium.com/@riccardo.ancarani94
 
 ## Hackernoon Blogs
 
