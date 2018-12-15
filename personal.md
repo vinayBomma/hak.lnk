@@ -73,6 +73,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://mohemiv.com
 - https://krebsonsecurity.com
 - https://www.grahamcluley.com
+- https://worthdoingbadly.com
 
 ## Medium Blogs
 
