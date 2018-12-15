@@ -71,6 +71,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://highon.coffee
 - https://ahussam.me
 - https://mohemiv.com
+- https://krebsonsecurity.com
 
 ## Medium Blogs
 
