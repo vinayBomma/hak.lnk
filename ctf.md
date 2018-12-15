@@ -11,7 +11,7 @@
 - https://ctftime.org
 - https://ctf365.com
 - http://captf.com
-- http://pwnable.kr
+- https://pwnable.tw
 - https://ctf.komodosec.com
 - https://www.root-me.org
 - https://pentester.land
@@ -44,3 +44,5 @@
 - http://www.itsecgames.com
 - https://hackcenter.com
 - https://practicalpentestlabs.com
+- https://tryhackme.com
+- https://labs.wizard-security.net
