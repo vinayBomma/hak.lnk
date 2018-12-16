@@ -74,6 +74,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://krebsonsecurity.com
 - https://www.grahamcluley.com
 - https://worthdoingbadly.com
+- https://blog.thomasorlita.cz
 
 ## Medium Blogs
 
