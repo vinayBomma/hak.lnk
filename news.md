@@ -49,3 +49,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://www.safetydetective.com/blog
 - https://blog.avatao.com
 - http://www.primalsecurity.net
+- http://security.eweek.com
