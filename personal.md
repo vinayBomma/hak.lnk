@@ -77,6 +77,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.thomasorlita.cz
 - https://oncyberblog.wordpress.com
 - https://dev.to/antogarand
+- https://samcurry.net
 
 ## Medium Blogs
 
