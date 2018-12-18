@@ -47,3 +47,4 @@
 - https://tryhackme.com
 - https://labs.wizard-security.net
 - https://vulhub.org
+- https://www.bugbountynotes.com/training
