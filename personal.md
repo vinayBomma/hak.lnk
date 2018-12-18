@@ -78,6 +78,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://oncyberblog.wordpress.com
 - https://dev.to/antogarand
 - https://samcurry.net
+- https://jfrog.com/blog
 
 ## Medium Blogs
 
