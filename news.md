@@ -52,3 +52,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - http://security.eweek.com
 - https://gbhackers.com
 - https://www.ripstech.com
+- https://thehackerstuff.com
