@@ -10,3 +10,4 @@
 - BugBountyNotes - https://www.bugbountynotes.com/
 - Google Bug Hunter University - https://sites.google.com/site/bughunteruniversity/
 - https://www.hacking-tutorial.com
+- https://linuxjourney.com
