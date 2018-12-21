@@ -11,3 +11,5 @@
 - Google Bug Hunter University - https://sites.google.com/site/bughunteruniversity/
 - https://www.hacking-tutorial.com
 - https://linuxjourney.com
+- Bugcrowd University - https://github.com/bugcrowd/bugcrowd_university
+
