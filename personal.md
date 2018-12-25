@@ -124,6 +124,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@riccardo.ancarani94
 - https://medium.com/@jamie.shaw
 - https://medium.com/@jbaines
+- https://medium.com/@friendly_
 
 ## Hackernoon Blogs
 
