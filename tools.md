@@ -20,6 +20,30 @@
 - https://github.com/smiegles/subdomainDB
 
 ## Discovery
+- https://github.com/003random/getJS
+- https://github.com/s0md3v/Arjun
+- https://github.com/mazen160/bfac
+- https://builtwith.com
+- https://github.com/ztgrace/changeme
+- https://github.com/Dionach/CMSmap
+- https://tools.kali.org/web-applications/dirb
+- https://sourceforge.net/projects/dirbuster
+- https://github.com/maurosoria/dirsearch
+- https://github.com/FortyNorthSecurity/EyeWitness
+- https://github.com/henshin/filebuster
+- https://github.com/OJ/gobuster
+- https://github.com/breenmachine/httpscreenshot
+- https://github.com/nahamsec/JSParser
+- https://github.com/GerbenJavado/LinkFinder
+- https://github.com/mak-/parameth
+- https://github.com/lanjelot/patator
+- https://github.com/jobertabma/relative-url-extractor
+- https://github.com/EnableSecurity/wafw00f
+- https://www.wappalyzer.com
+- https://github.com/maaaaz/webscreenshot
+- https://github.com/xmendez/wfuzz
+- https://github.com/urbanadventurer/whatweb
+- https://github.com/zseano/JS-Scan
 
 ## Domain
 - https://bgp.he.net
