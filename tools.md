@@ -5,7 +5,8 @@
 ## General / Collection
 - https://tools.kali.org/tools-listing
 - https://tools.cyberkendra.com
-- https://bugbountyforum.com/tools/
+- https://bugbountyforum.com/tools
+- https://www.kitploit.com
 
 ## All In One / Framework
 
@@ -94,10 +95,66 @@
 - https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050
 
 ## Exploitation
+### Authentication
+- https://github.com/RUB-NDS/CORStest
+- https://github.com/ticarpi/jwt_tool
+### Brute Force
+- http://www.oxid.it/cain.html
+- https://www.openwall.com/john
+- https://github.com/vanhauser-thc/thc-hydra
 ### XSS
 - https://xsshunter.com
+- https://github.com/mandatoryprogrammer/xsshunter_client
+- https://github.com/rajeshmajumdar/BruteXSS
+- https://github.com/yaph/domxssscanner
+- https://github.com/epsylon/xsser
+- http://xssor.io
+- https://github.com/bugbountyforum/XSS-Radar
+- https://github.com/s0md3v/XSStrike
 ### SQL Injection
 - http://sqlmap.org
+- https://github.com/EduardoDesdes/SQLMapGui  
+- https://github.com/Neohapsis/bbqsql
+- https://github.com/awnumar/blind-sql-bitshifting
+- https://github.com/JohnTroony/Blisqy
+- https://github.com/stamparm/DSSS
+- https://github.com/dtag-dev-sec/explo
+- https://github.com/ron190/jsql-injection
+- https://github.com/tearsecurity/leviathan
+- https://github.com/codingo/NoSQLMap
+- https://github.com/codewatchorg/sqlipy
+- http://sqlninja.sourceforge.net
+### SSRF / XSPA
+- https://github.com/jobertabma/ground-control
+- https://github.com/jayeshchauhan/SKANDA
+- https://github.com/JacobReynolds/ssrfDetector
+### XXE
+- https://github.com/BuffaloWill/oxml_xxe
+- https://github.com/enjoiz/XXEinjector
+- https://github.com/GDSSecurity/xxe-recursive-download
+### Serialization
+- https://github.com/ambionics/phpggc
+- https://github.com/GoSecure/ysoserial
+### SSTI
+- https://github.com/epinna/tplmap
+### LFI
+- https://github.com/D35m0nd142/LFISuite
+### Upload
+- https://github.com/neex/ffmpeg-avi-m3u-xbin
+### CSRF
+- https://github.com/0xInfection/XSRFProbe
+### Race Condition
+- https://github.com/insp3ctre/race-the-web
+### Source Code Analyst
+- http://rips-scanner.sourceforge.net
+### Public Vulnerabilities
+- https://github.com/1N3/Findsploit
+- https://github.com/vulnersCom/getsploit
+#### CMS
+- https://github.com/rezasp/joomscan
+- https://wpscan.org
+#### Apache
+- https://github.com/mazen160/struts-pwn
 
 ## Mobile
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
