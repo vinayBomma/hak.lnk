@@ -9,6 +9,24 @@
 - https://www.kitploit.com
 
 ## All In One / Framework
+- https://www.metasploit.com
+- https://beefproject.com
+- https://github.com/DataSploit/datasploit
+- https://dradisframework.com
+- https://github.com/penafieljlm/inquisitor
+- https://intrigue.io
+- https://www.kali.org
+- https://github.com/anshumanbh/kubebot
+- https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php
+- https://www.tenable.com/downloads/nessus
+- https://github.com/maK-/scantastic-tool
+- https://github.com/1N3/Sn1per
+- https://github.com/trustedsec/social-engineer-toolkit
+- https://github.com/smicallef/spiderfoot
+- https://github.com/0xInfection/TIDoS-Framework
+- http://w3af.org
+- http://www.edge-security.com/webslayer.php
+- https://github.com/evilsocket/xray
 
 ## Data
 - https://www.diffchecker.com
@@ -21,6 +39,8 @@
 - https://github.com/smiegles/subdomainDB
 
 ## Discovery
+- https://bitbucket.org/LaNMaSteR53/recon-ng
+- https://github.com/ekultek/zeus-scanner
 - https://github.com/003random/getJS
 - https://github.com/s0md3v/Arjun
 - https://github.com/mazen160/bfac
