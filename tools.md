@@ -24,8 +24,17 @@
 - http://sqlmap.org
 
 ## Mobile
-- https://labs.mwrinfosecurity.com/tools/drozer/
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- http://appium.io
+### Android
+- https://github.com/mwrlabs/drozer
+- https://github.com/iBotPeaches/Apktool
+- https://sourceforge.net/projects/dex2jar
+- https://github.com/java-decompiler/jd-gui
+- https://github.com/rovellipaolo/NinjaDroid
+### iOS
+- https://appsec-labs.com/iNalyzer
+- https://github.com/dmayer/idb
 
 ## Networking
 - https://portswigger.net/burp
