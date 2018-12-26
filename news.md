@@ -56,3 +56,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://www.hackingarticles.in
 - https://enciphers.com/posts
 - https://www.secjuice.com
+- https://theantisocialengineer.com/blog
