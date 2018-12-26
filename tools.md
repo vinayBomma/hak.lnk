@@ -29,9 +29,17 @@
 
 ## Networking
 - https://portswigger.net/burp
-- https://www.zaproxy.org/
+- https://www.zaproxy.org
 - https://www.wireshark.org
 - https://nmap.org
+- https://github.com/yassineaboukir/Asnlookup
+- https://hackertarget.com
+- https://github.com/robertdavidgraham/masscan
+- https://mitmproxy.org
+- https://github.com/C-REMO/Obscure-IP-Obfuscator
+- https://github.com/trimstray/htrace.sh
+- https://github.com/codingo/VHostScan
+- https://github.com/jobertabma/virtual-host-discovery
 
 ## External Services
 ### Git
