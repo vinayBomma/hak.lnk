@@ -10,12 +10,34 @@
 ## All In One / Framework
 
 ## Data
+- https://www.diffchecker.com
+- https://github.com/fuzzdb-project/fuzzdb
+- https://www.hex-rays.com/products.shtml
+- https://gist.github.com/jhaddix
+- http://jsbeautifier.org
+- https://beautifier.io
+- https://github.com/danielmiessler/SecLists
+- https://github.com/smiegles/subdomainDB
 
 ## Discovery
 
 ## Domain
+- https://bgp.he.net
+- https://viewdns.info/reversewhois/?q=
 
 ## Engine
+- https://www.google.com
+- https://censys.io
+- https://github.com/ZephrFish/GoogD0rker
+- https://github.com/1N3/Goohak
+- https://code.google.com/archive/p/ratproxy
+- https://scans.io
+- https://www.shodan.io
+- http://spyonweb.com
+- https://twofactorauth.org
+- https://web.archive.org
+- https://gist.github.com/mhmdiaa/2742c5e147d49a804b408bfed3d32d07
+- https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050
 
 ## Exploitation
 ### XSS
