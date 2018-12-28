@@ -23,6 +23,7 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/jhaddix
 - https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/Hacker0x01/helpful-recon-data
 
 ## Mobile
 
