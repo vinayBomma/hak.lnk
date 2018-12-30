@@ -83,6 +83,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://www.marcolancini.it
 - https://avleonov.com
 - http://www.pwsecspirit.ninja
+- https://www.nc-lp.com
 
 ## Medium Blogs
 
