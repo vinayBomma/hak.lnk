@@ -209,6 +209,7 @@
 ## Mobile
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - http://appium.io
+- https://github.com/federicodotta/Brida
 ### Android
 - https://github.com/mwrlabs/drozer
 - https://github.com/iBotPeaches/Apktool
