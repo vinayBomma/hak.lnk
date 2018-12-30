@@ -82,6 +82,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://blog.jr0ch17.com
 - https://www.marcolancini.it
 - https://avleonov.com
+- http://www.pwsecspirit.ninja
 
 ## Medium Blogs
 
