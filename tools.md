@@ -209,7 +209,6 @@
 ## Mobile
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - http://appium.io
-- https://github.com/federicodotta/Brida
 ### Android
 - https://github.com/mwrlabs/drozer
 - https://github.com/iBotPeaches/Apktool
@@ -219,6 +218,10 @@
 ### iOS
 - https://appsec-labs.com/iNalyzer
 - https://github.com/dmayer/idb
+
+## Burp Extensions
+- https://github.com/Lopseg/Jspathextractor 
+- https://github.com/federicodotta/Brida
 
 ## Payload List / Cheatsheet
 - https://pastebin.com/u/payloadartist
