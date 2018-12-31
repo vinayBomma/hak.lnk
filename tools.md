@@ -222,6 +222,7 @@
 ## Burp Extensions
 - https://github.com/Lopseg/Jspathextractor 
 - https://github.com/federicodotta/Brida
+- https://github.com/tosebro/SqlPoC
 
 ## Payload List / Cheatsheet
 - https://pastebin.com/u/payloadartist
