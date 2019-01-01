@@ -7,7 +7,6 @@
 - https://github.com/OWASP
 - https://github.com/jobertabma
 - https://github.com/fransr
-- https://github.com/ngalongc
 - https://github.com/cujanovic
 - https://github.com/danielmiessler
 - https://github.com/sneakerhax/Runbooks
@@ -15,15 +14,19 @@
 - https://github.com/BugBountyResources
 - https://github.com/trimstray/awesome-ninja-admins
 - https://github.com/topics/bug-bounty
-- https://github.com/EdOverflow
 - https://github.com/avlidienbrunn
 - https://github.com/yassineaboukir
 - https://github.com/Hack-with-Github
 - https://github.com/coreb1t/awesome-pentest-cheat-sheets
 - https://github.com/swisskyrepo/PayloadsAllTheThings
-- https://github.com/jhaddix
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/Hacker0x01/helpful-recon-data
+- https://github.com/EdOverflow
+- https://github.com/EdOverflow/bugbounty-cheatsheet
+- https://github.com/ngalongc
+- https://github.com/ngalongc/bug-bounty-reference
+- https://github.com/jhaddix
+- https://github.com/jhaddix/tbhm
 
 ## Mobile
 
