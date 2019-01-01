@@ -136,6 +136,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://medium.com/@aniltom
 - https://medium.com/@yogeshtantak7788
 - https://medium.com/@armaanpathan
+- https://medium.com/@N0_M3ga_Hacks
 
 ## Hackernoon Blogs
 
