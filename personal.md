@@ -84,6 +84,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://avleonov.com
 - http://www.pwsecspirit.ninja
 - https://www.nc-lp.com
+- https://www.jaybosamiya.com/blog
 
 ## Medium Blogs
 
