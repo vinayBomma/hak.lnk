@@ -3,9 +3,17 @@
 # Community Forums / Discussion Boards
 
 - https://bugbountyforum.com
+- https://0x00sec.org
+- https://geekhack.org
+- https://www.nulled.to
+- https://hackforums.net
+- https://www.hellboundhackers.org
+- https://bitshacking.com/forum
 
 ## Reddit
 
+- https://www.reddit.com/r/bugbounty
+- https://www.reddit.com/r/hacking
 - https://www.reddit.com/r/InfoSecInsiders
 
 ## Conferences
