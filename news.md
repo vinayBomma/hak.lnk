@@ -60,3 +60,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - http://blog.intigriti.com
 - https://hackersonlineclub.com
 - https://igguru.net/category/security
+- https://blog.netspi.com
