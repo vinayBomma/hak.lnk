@@ -59,3 +59,4 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://theantisocialengineer.com/blog
 - http://blog.intigriti.com
 - https://hackersonlineclub.com
+- https://igguru.net/category/security
