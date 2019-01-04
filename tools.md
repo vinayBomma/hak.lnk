@@ -4,8 +4,9 @@
 
 ## General / Collection
 - https://tools.kali.org/tools-listing
-- https://tools.cyberkendra.com
+- https://sectools.org
 - https://bugbountyforum.com/tools
+- https://tools.cyberkendra.com
 - https://www.kitploit.com
 
 ## All In One / Framework
