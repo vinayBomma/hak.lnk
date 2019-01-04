@@ -49,3 +49,4 @@
 - https://vulhub.org
 - https://www.bugbountynotes.com/training
 - https://evilzone.org
+- https://thisislegal.com
