@@ -2,7 +2,11 @@
 
 # Community Forums / Discussion Boards
 
+- https://forums.offensive-security.com
 - https://bugbountyforum.com
+- https://forum.hackthebox.eu
+- https://forum.bugcrowd.com
+- https://www.hackthissite.org/forums
 - https://0x00sec.org
 - https://geekhack.org
 - https://www.nulled.to
