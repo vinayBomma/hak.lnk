@@ -61,3 +61,7 @@ These websites are mainly belong to infosec companies to keep you updated from t
 - https://hackersonlineclub.com
 - https://igguru.net/category/security
 - https://blog.netspi.com
+- http://magazine.hitb.org
+- http://breakthesecurity.cysecurity.org
+- https://blog.netspi.com
+- https://www.technadu.com
