@@ -88,6 +88,8 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://abiondo.me
 - https://www.absolomb.com
 - https://akijosberryblog.wordpress.com
+- http://witcoat.blogspot.com
+- https://blog.witcoat.com
 
 ## Medium Blogs
 
