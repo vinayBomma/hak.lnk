@@ -22,3 +22,4 @@
 - https://snyk.io/vuln
 - http://cxsecurity.com/exploit
 - http://yourxss.pro
+- http://cwe.mitre.org
