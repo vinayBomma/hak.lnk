@@ -11,6 +11,7 @@
 - Google Bug Hunter University - https://sites.google.com/site/bughunteruniversity/
 - https://www.hacking-tutorial.com
 - Bugcrowd University - https://github.com/bugcrowd/bugcrowd_university
+- https://bugbountytuts.wordpress.com
 
 # Operating System Tutorials
 - https://linuxjourney.com
