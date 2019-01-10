@@ -91,6 +91,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - http://witcoat.blogspot.com
 - https://blog.witcoat.com
 - https://eternalnoobs.com
+- http://firstsight.me
 
 ## Medium Blogs
 
