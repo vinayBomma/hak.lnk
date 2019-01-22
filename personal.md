@@ -93,6 +93,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://eternalnoobs.com
 - http://firstsight.me
 - https://n0where.net
+- https://dirkjanm.io
 
 ## Medium Blogs
 
