@@ -19,6 +19,7 @@
 - https://www.reddit.com/r/bugbounty
 - https://www.reddit.com/r/hacking
 - https://www.reddit.com/r/InfoSecInsiders
+- https://www.reddit.com/r/redteamsec
 
 ## Conferences
 
