@@ -29,6 +29,7 @@
 - https://github.com/jhaddix/tbhm
 - https://nsacyber.github.io
 - http://find-sec-bugs.github.io
+- https://github.com/bl4de
 
 ## Mobile
 
