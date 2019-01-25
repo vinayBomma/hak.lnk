@@ -94,6 +94,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - http://firstsight.me
 - https://n0where.net
 - https://dirkjanm.io
+- https://cyb3rsick.com
 
 ## Medium Blogs
 
