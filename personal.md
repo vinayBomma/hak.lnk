@@ -95,6 +95,7 @@ These blogs are belong to hackers in the bug bounty community, please contact th
 - https://n0where.net
 - https://dirkjanm.io
 - https://cyb3rsick.com
+- https://zemn.me
 
 ## Medium Blogs
 
